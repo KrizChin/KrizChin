@@ -1,0 +1,4 @@
+- 👋 Hi, I’m **KrizChin**
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning 'Java, C++, and Web Development'
+- Pronouns: *He/Him*
